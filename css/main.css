@@ -161,7 +161,11 @@ body{
     width: 100%;
 }
 .contact{
-    padding: 50px 35px 350px;
+    padding: 50px 35px 180px;
+}
+.about{
+    padding: 50px 35px 250px;
+    font-size: 18px;
 }
 @media screen and (max-width: 992px) {
     .game-list{
